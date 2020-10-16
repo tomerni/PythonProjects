@@ -1,12 +1,9 @@
-
 ########################
 # FILE : ex3.py
 # WRITER: Tomer Nissim, tomerni, 313232845
 # EXERCISE: intro2cs1 Ex3 2019-2020
 # DESCRIPTION: The functions from ex3
 ########################
-
-#some changes
 
 def input_list():
     """This functions gets numbers as inputs from the user until an empty
